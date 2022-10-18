@@ -1,0 +1,22 @@
+{
+   "marvel1" : {
+      "name" : "Avengers Endgame",
+      "password" : "password1",
+      "location" : "earth",
+      "id": 1
+   },
+   
+   "marvel2" : {
+      "name" : "Avengers",
+      "password" : "password2",
+      "location" : "avengers compound",
+      "id": 2
+   },
+   
+   "marvel3" : {
+      "name" : "Spiderman",
+      "password" : "password3",
+      "location" : "multiverse",
+      "id": 3
+   }
+}
